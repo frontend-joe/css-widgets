@@ -5,7 +5,6 @@ Assortment of dashboard widgets, built using just HTML and CSS.
 ### Examples
 
 - widget-1 - Layered Avatar List
--
 
 ### Usage
 
